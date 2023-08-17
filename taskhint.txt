@@ -1,0 +1,9 @@
+
+.txt file
+
+/etc/password
+firsntame:email:password\n
+
+
+
+### json ?
